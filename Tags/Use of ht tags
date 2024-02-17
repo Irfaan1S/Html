@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <br>
+    <b>BOLD</b>
+    <br>
+    <i>Italic</i>
+    <br>
+    <u>Underline</u>
+    <hr>
+    <p>Sample Paragraph Sample Paragraph Sample Paragraph Sample Paragraph Sample Paragraph Sample Paragraph Sample Paragraph Sample Paragraph Sample Paragraph Sample Paragraph Sample Paragraph Sample Paragraph Sample Paragraph Sample Paragraph Sample Paragraph Sample Paragraph</p>
+    <hr> 
+    <img src = "https://cdn.shopclues.com/images/detailed/23999/81728270OR12062117P1424935341_1439957770.jpg" />
+     <hr>
+</body>
+</html>
